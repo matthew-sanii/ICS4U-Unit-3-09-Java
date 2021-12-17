@@ -7,6 +7,8 @@ public class Bike extends Vehicle {
 
   /**
   * The constructor for the bike.
+  *
+  * @param cadance the cadence parameter.
   */
   public Bike(final int cadance) {
     cadence = cadance;

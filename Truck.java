@@ -12,6 +12,9 @@ public class Truck extends Vehicle {
 
   /**
   * The truck constructor.
+  *
+  * @param platInfo the plate info.
+  * @param colour the truck color.
   */
   public Truck(final String platInfo,
   final String colour) {

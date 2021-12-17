@@ -10,8 +10,14 @@ public class Vehicle {
   */
   private String color = "red";
 
+  /**
+  * The base plate info.
+  */
   private String plateInfo = "123qwe";
 
+  /**
+  * The starting cadence value.
+  */
   private int cadence = 1;
 
   /**
